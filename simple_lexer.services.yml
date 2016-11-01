@@ -1,0 +1,3 @@
+services:
+  simple_lexer.lexer:
+    class: Drupal\simple_lexer\Lexer

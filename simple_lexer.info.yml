@@ -1,0 +1,4 @@
+name: 'Simple lexer'
+description: 'Formatter that parses a string containing simple operations (+/-) and returns the result.'
+core: 8.x
+type: module
